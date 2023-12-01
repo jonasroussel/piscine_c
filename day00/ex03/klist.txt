@@ -1,0 +1,5 @@
+Credentials cache: API:25137F26-7D51-470F-84D8-1DD0CBFE3386
+        Principal: jroussel@42.FR
+
+  Issued                Expires             Flags    Principal
+Jul  3 17:58:28 2017  Jul 10 17:58:25 2017  FPIA   krbtgt/42.FR@42.FR
